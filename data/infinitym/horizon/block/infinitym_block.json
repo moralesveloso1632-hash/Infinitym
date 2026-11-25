@@ -1,0 +1,8 @@
+{
+  "template": "minecraft:diamond_block",
+  "properties": {
+    "hardness": 8.0,
+    "explosion_resistance": 1200.0,
+    "requires_tool": true
+  }
+}

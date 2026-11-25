@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": "infinitym:infinitym_ore",
+  "result": {
+    "id": "infinitym:infinitym_ingot"
+  },
+  "experience": 3.0,
+  "cookingtime": 200
+}

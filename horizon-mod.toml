@@ -1,0 +1,9 @@
+id = "infinitym"
+name = "Infinitym"
+version = "0.1.0"
+description = "Infinitym: un mineral raro de la pizarra profunda, con herramientas y armadura mejores que la netherita."
+authors = ["jennifer"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]
+

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": "infinitym:infinitym_ingot",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "I",
+    "I",
+    "S"
+  ],
+  "result": {
+    "id": "infinitym:infinitym_sword",
+    "count": 1
+  }
+}

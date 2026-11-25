@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "infinitym:infinitym_block"
+  ],
+  "result": {
+    "id": "infinitym:infinitym_ingot",
+    "count": 9
+  }
+}

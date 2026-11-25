@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "infinitym:item/infinitym_pickaxe"
+  }
+}
