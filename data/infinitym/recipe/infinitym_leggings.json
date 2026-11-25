@@ -11,6 +11,13 @@
   ],
   "result": {
     "id": "infinitym:infinitym_leggings",
-    "count": 1
+    "count": 1,
+    "components": {
+      "minecraft:equippable": {
+        "slot": "legs",
+        "asset_id": "infinitym:infinitym",
+        "equip_sound": "minecraft:item.armor.equip_netherite"
+      }
+    }
   }
 }

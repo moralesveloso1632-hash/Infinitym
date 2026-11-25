@@ -34,6 +34,9 @@ SOURCES = {
     "item/infinitym_chestplate": ("item/netherite_chestplate", "all"),
     "item/infinitym_leggings": ("item/netherite_leggings", "all"),
     "item/infinitym_boots": ("item/netherite_boots", "all"),
+    # armadura puesta (casco, peto y botas en una imagen; pantalones en otra)
+    "entity/equipment/humanoid/infinitym": ("entity/equipment/humanoid/netherite", "all"),
+    "entity/equipment/humanoid_leggings/infinitym": ("entity/equipment/humanoid_leggings/netherite", "all"),
 }
 
 

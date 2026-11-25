@@ -11,6 +11,13 @@
   ],
   "result": {
     "id": "infinitym:infinitym_chestplate",
-    "count": 1
+    "count": 1,
+    "components": {
+      "minecraft:equippable": {
+        "slot": "chest",
+        "asset_id": "infinitym:infinitym",
+        "equip_sound": "minecraft:item.armor.equip_netherite"
+      }
+    }
   }
 }

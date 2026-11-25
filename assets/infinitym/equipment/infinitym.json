@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "infinitym:infinitym"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "infinitym:infinitym"
+      }
+    ]
+  }
+}

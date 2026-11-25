@@ -10,6 +10,13 @@
   ],
   "result": {
     "id": "infinitym:infinitym_boots",
-    "count": 1
+    "count": 1,
+    "components": {
+      "minecraft:equippable": {
+        "slot": "feet",
+        "asset_id": "infinitym:infinitym",
+        "equip_sound": "minecraft:item.armor.equip_netherite"
+      }
+    }
   }
 }
